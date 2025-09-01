@@ -1,0 +1,60 @@
+THIS IS THE BRUTE FORCE SOLUTION 
+TC : O(N^2)
+SC : O(N)
+
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+    int n= nums.length;
+    int pos[] = new int[n/2];
+    int neg[] = new int[n/2];
+    int p=0,q=0;
+    for(int i=0,j=0;i<n;i++)
+    {
+       if(nums[i]>=0)
+       {
+        pos[j++] = nums[i];
+       }
+    }
+    for(int i=0,j=0;i<n;i++)
+    {
+        if(nums[i]<0)
+        {
+        neg[j++] = nums[i];
+       }
+    }    
+    for(int i=0;i<n/2;i++)
+    {
+        nums[2*i]=pos[i];
+        nums[2*i+1]=neg[i];
+    }
+    return nums;
+    }
+}
+
+
+THIS IS OPTIMAL SOLUTION 
+TC : O(N)
+SC : O(N)
+
+
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+    int n= nums.length;
+    int arr[] = new int[n];
+    int pos=0,neg=1;
+    for(int i=0;i<n;i++)
+    {
+        if(nums[i]>=0)
+        {
+            arr[pos]=nums[i];
+            pos=pos+2;
+        }
+        else
+        {
+            arr[neg]=nums[i];
+            neg=neg+2;
+        }
+    }
+    return arr;
+    }
+}
