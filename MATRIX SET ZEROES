@@ -1,0 +1,151 @@
+THIS IS THE BRUTE FORCE SOLUTION 
+TC : O(N^3)
+
+
+class Solution {
+    static void markrow(int[][] matrix,int row)
+        {
+            for(int j=0;j<matrix.length;j++)
+            {
+                if(matrix[row][j]!=0)
+                {
+                    matrix[row][j]=-1;
+                }
+            }
+        }
+        static void markcol(int[][] matrix,int col)
+        {
+            for(int i=0;i<matrix.length;i++)
+            {
+                if(matrix[i][col]!=0)
+                {
+                    matrix[i][col]=-1;
+                }
+            }
+        }
+    public void setZeroes(int[][] matrix) {
+        int m = matrix.length;
+        for(int i=0;i<m;i++)
+        {
+          for (int j=0;j<matrix[0].length;j++)
+          {
+            if(matrix[i][j]==0)
+            {
+                markrow(matrix,i);
+                markcol(matrix,j);
+            }
+          }
+        }
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<matrix[0].length;j++)
+            {
+                if(matrix[i][j]==-1)
+                {
+                    matrix[i][j]=0;
+                }
+            }
+        }
+    }
+
+
+    THIS IS THE BETTER SOLUTION
+    TC : O(2*N*M)
+    SC : O(N) + O(M)
+
+
+    class Solution {
+    public void setZeroes(int[][] matrix) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int[] row = new int[m];
+        int[] col = new int[n];
+        for(int i=0;i<m;i++)
+        {
+          for (int j=0;j<n;j++)
+          {
+            if(matrix[i][j]==0)
+            {
+                row[i]=1;
+                col[j]=1;
+            }
+          }
+        }
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(row[i]==1 || col[j]==1)
+                {
+                    matrix[i][j]=0;
+                }
+            }
+        }
+    }
+}
+
+
+THIS IS THE OPTIMAL SOLUTION
+TC : O(M*N)
+SC : O(1)
+
+
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+        boolean row1zero = false;
+        boolean col1zero = false;
+        for(int j=0;j<n;j++)
+        {
+            if(matrix[0][j]==0)
+            {
+                row1zero=true;
+                break;
+            }
+        }   
+        for(int i=0;i<m;i++)
+        {
+            if(matrix[i][0]==0)
+            {
+                col1zero = true;
+                break;
+            }
+        }
+         for(int i=1;i<m;i++)
+         {
+            for(int j=1;j<n;j++)
+            {
+                if(matrix[i][j]==0)
+                {
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
+                }
+            }
+         }
+         for(int i=1;i<m;i++)
+         {
+            for(int j=1;j<n;j++)
+            {
+                if(matrix[i][0]==0 || matrix[0][j]==0)
+                {
+                    matrix[i][j]=0;
+                }
+            }
+         }
+         if(row1zero)
+         {
+            for(int j=0;j<n;j++)
+            {
+                matrix[0][j]=0;
+            }
+         }
+         if(col1zero)
+         {
+            for(int i=0;i<m;i++)
+            {
+                matrix[i][0]=0;
+            }
+         }
+    }
+}
