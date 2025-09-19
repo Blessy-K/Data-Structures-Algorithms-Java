@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
