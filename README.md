@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
