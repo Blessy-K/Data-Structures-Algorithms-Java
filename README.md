@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
