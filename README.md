@@ -83,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
+| [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
