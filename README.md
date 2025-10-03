@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
