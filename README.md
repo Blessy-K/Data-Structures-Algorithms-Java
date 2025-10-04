@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0066-plus-one) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0069-sqrtx) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
