@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
@@ -69,16 +70,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
