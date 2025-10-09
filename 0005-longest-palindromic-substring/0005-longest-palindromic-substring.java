@@ -1,28 +1,53 @@
 class Solution {
     public String longestPalindrome(String s) {
-    int n = s.length();
-    String r = "";
-    for(int i=0;i<n;i++)
+    // int n = s.length();
+    // String r = "";
+    // for(int i=0;i<n;i++)
+    // {
+    //     for(int j=i;j<n;j++)
+    //     {
+    //         String sub = s.substring(i,j+1);
+    //         if(isPalindrome(sub)&&sub.length()>r.length())
+    //         {
+    //             r=sub;
+    //         }
+    //     }
+    // }    
+    // return r;
+    // }
+    // private boolean isPalindrome(String str)
+    // {
+    //     int l=0,r=str.length()-1;
+    //     while(l<r)
+    //     {
+    //         if(str.charAt(l++) != str.charAt(r--))
+    //             return false;
+    //     }
+    //             return true;
+
+    if(s==null || s.length()<1)
+    return "";
+    int st=0,end=0;
+    for(int i=0;i<s.length();i++)
     {
-        for(int j=i;j<n;j++)
+        int l1 = expandFrameCenter(s,i,i);
+        int l2 = expandFrameCenter(s,i,i+1);
+        int l = Math.max(l1,l2);
+        if(l>end-st)
         {
-            String sub = s.substring(i,j+1);
-            if(isPalindrome(sub)&&sub.length()>r.length())
-            {
-                r=sub;
-            }
+            st=i-(l-1)/2;
+            end = i+l/2;
         }
-    }    
-    return r;
     }
-    private boolean isPalindrome(String str)
+    return s.substring(st,end+1);
+    }
+    private int expandFrameCenter(String s, int left,int right)
     {
-        int l=0,r=str.length()-1;
-        while(l<r)
+        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right))
         {
-            if(str.charAt(l++) != str.charAt(r--))
-                return false;
+            left--;
+            right++;
         }
-                return true;
+        return right-left-1;
     }
 }
