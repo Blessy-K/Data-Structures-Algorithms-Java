@@ -46,20 +46,35 @@ class Solution {
     //     }
     //     return r.toString();   
 
-       StringBuilder[] rows = new StringBuilder[numRows];
-       for(int i=0;i<numRows;i++)
-       rows[i]=new StringBuilder();
-       int currRow = 0;
-       boolean goingDown = false;
-       for(char c: s.toCharArray())
-       {
-        rows[currRow].append(c);
-        if(currRow==0 || currRow == numRows-1)goingDown=!goingDown;
-        currRow+=goingDown?1:-1;
-       }
+    //    StringBuilder[] rows = new StringBuilder[numRows];
+    //    for(int i=0;i<numRows;i++)
+    //    rows[i]=new StringBuilder();
+    //    int currRow = 0;
+    //    boolean goingDown = false;
+    //    for(char c: s.toCharArray())
+    //    {
+    //     rows[currRow].append(c);
+    //     if(currRow==0 || currRow == numRows-1)goingDown=!goingDown;
+    //     currRow+=goingDown?1:-1;
+    //    }
        StringBuilder r = new StringBuilder();
-       for(StringBuilder row : rows)
-       r.append(row);
+    //    for(StringBuilder row : rows)
+    //    r.append(row);
+    //    return r.toString();
+
+       int cl=2*numRows-2;
+       for(int i=0;i<numRows;i++)
+       {
+        for(int j=i;j<s.length();j+=cl)
+        {
+            r.append(s.charAt(j));
+            int d = j+cl-2*i;
+            if(i!=0&&i!=numRows-1&&d<s.length())
+            {
+                r.append(s.charAt(d));
+            }
+        }
+       }
        return r.toString();
     }
 }
