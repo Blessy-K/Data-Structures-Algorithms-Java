@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
