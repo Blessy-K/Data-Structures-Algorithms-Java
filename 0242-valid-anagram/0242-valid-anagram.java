@@ -3,7 +3,14 @@ class Solution {
     if(s.length()!=t.length())
     {
         return false;
-    }   
+    }
+    char[] arr1 = s.toCharArray();
+    char[] arr2 = t.toCharArray();
+    Arrays.sort(arr1);
+    Arrays.sort(arr2);
+    return Arrays.equals(arr1,arr2);
+
+
     // int count[]=new int[26];
     // for(int i=0;i<s.length();i++)
     // {
@@ -17,19 +24,19 @@ class Solution {
     // }
     // return true;
 
-    HashMap<Character ,Integer> map = new HashMap<>();
-    for(char c : s.toCharArray())
-    {
-        map.put(c,map.getOrDefault(c,0)+1);
-    }
-    for(char c : t.toCharArray())
-    {
-        if(!map.containsKey(c))
-        return false;
-        map.put(c,map.get(c)-1);
-        if(map.get(c)==0)
-        map.remove(c);
-    }
-    return map.isEmpty();
+    // HashMap<Character ,Integer> map = new HashMap<>();
+    // for(char c : s.toCharArray())
+    // {
+    //     map.put(c,map.getOrDefault(c,0)+1);
+    // }
+    // for(char c : t.toCharArray())
+    // {
+    //     if(!map.containsKey(c))
+    //     return false;
+    //     map.put(c,map.get(c)-1);
+    //     if(map.get(c)==0)
+    //     map.remove(c);
+    // }
+    // return map.isEmpty();
     }
 }
