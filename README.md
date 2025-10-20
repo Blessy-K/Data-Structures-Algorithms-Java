@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0058-length-of-last-word) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0119-pascals-triangle-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 ## Prefix Sum
