@@ -37,19 +37,43 @@ class Solution {
     //         return balance==0;
 
 
-    backtrack(result,"",0,0,n);
+    // backtrack(result,"",0,0,n);
+    // return result;
+    //     }
+    //     private void backtrack(List<String> result, String current, int open, int close, int max)
+    //     {
+    //         if(current.length()==max*2)
+    //         {
+    //             result.add(current);
+    //             return;
+    //         }
+    //         if(open<max)
+    //         backtrack(result,current+"(",open+1,close,max);
+    //         if(close<open)
+    //         backtrack(result,current+")",open,close+1,max);
+
+
+    backtrack(result,new StringBuilder(),0,0,n);
     return result;
         }
-        private void backtrack(List<String> result, String current, int open, int close, int max)
+        private void backtrack(List<String> result, StringBuilder sb, int open, int close, int max)
         {
-            if(current.length()==max*2)
+            if(sb.length()==max*2)
             {
-                result.add(current);
+                result.add(sb.toString());
                 return;
             }
             if(open<max)
-            backtrack(result,current+"(",open+1,close,max);
-            if(close<open)
-            backtrack(result,current+")",open,close+1,max);
+            {
+            sb.append('(');
+            backtrack(result,sb,open+1,close,max);
+            sb.deleteCharAt(sb.length()-1);
+             }
+        if(close<open)
+        {
+            sb.append(')');
+            backtrack(result,sb,open,close+1,max);
+            sb.deleteCharAt(sb.length()-1);
         }
+    }
 }
