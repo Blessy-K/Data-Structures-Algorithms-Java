@@ -21,24 +21,47 @@ class Solution {
 
 
         
-        if (digits == null || digits.length() == 0) return new ArrayList<>();
+        // if (digits == null || digits.length() == 0) return new ArrayList<>();
+
+        // String[] map = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        // Queue<String> queue = new LinkedList<>();
+        // queue.add("");
+
+        // for (char digit : digits.toCharArray()) {
+        //     int size = queue.size();
+        //     String letters = map[digit - '0'];
+
+        //     for (int i = 0; i < size; i++) {
+        //         String combination = queue.poll();
+        //         for (char c : letters.toCharArray()) {
+        //             queue.add(combination + c);
+        //         }
+        //     }
+        // }
+
+        // return new ArrayList<>(queue);
+
+
+
+        List<String> result = new ArrayList<>();
+        if (digits == null || digits.length() == 0) return result;
 
         String[] map = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
-        Queue<String> queue = new LinkedList<>();
-        queue.add("");
+        backtrack(result, map, digits, 0, new StringBuilder());
+        return result;
+    }
 
-        for (char digit : digits.toCharArray()) {
-            int size = queue.size();
-            String letters = map[digit - '0'];
-
-            for (int i = 0; i < size; i++) {
-                String combination = queue.poll();
-                for (char c : letters.toCharArray()) {
-                    queue.add(combination + c);
-                }
-            }
+    private void backtrack(List<String> result, String[] map, String digits, int index, StringBuilder current) {
+        if (index == digits.length()) {
+            result.add(current.toString());
+            return;
         }
 
-        return new ArrayList<>(queue);
+        String letters = map[digits.charAt(index) - '0'];
+        for (char c : letters.toCharArray()) {
+            current.append(c);
+            backtrack(result, map, digits, index + 1, current);
+            current.deleteCharAt(current.length() - 1); // backtrack step
+        }
     }
 }
