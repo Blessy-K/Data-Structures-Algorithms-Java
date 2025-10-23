@@ -29,17 +29,38 @@ class Solution {
     //     return Arrays.equals(a, b);
 
 
+        // Map<String, List<String>> map = new HashMap<>();
+
+        // for (String s : strs) {
+        //     char[] ch = s.toCharArray();
+        //     Arrays.sort(ch);
+        //     String key = new String(ch);
+
+        //     map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);
+        // }
+
+        // return new ArrayList<>(map.values());
+
+
+
         Map<String, List<String>> map = new HashMap<>();
 
         for (String s : strs) {
-            char[] ch = s.toCharArray();
-            Arrays.sort(ch);
-            String key = new String(ch);
+            int[] freq = new int[26];
+            for (char c : s.toCharArray()) {
+                freq[c - 'a']++;
+            }
 
-            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);
+            StringBuilder key = new StringBuilder();
+            for (int f : freq) {
+                key.append(f).append('#');
+            }
+
+            map.computeIfAbsent(key.toString(), k -> new ArrayList<>()).add(s);
         }
 
         return new ArrayList<>(map.values());
     }
 }
+    
    
