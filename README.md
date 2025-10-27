@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
@@ -187,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0010-regular-expression-matching) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
