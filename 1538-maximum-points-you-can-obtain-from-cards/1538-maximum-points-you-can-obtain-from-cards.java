@@ -33,30 +33,51 @@ class Solution {
 
 
 
-    int t=0;
-    for(int i=0;i<n;i++)
+    // int t=0;
+    // for(int i=0;i<n;i++)
+    // {
+    //     t+=cardPoints[i];
+    // }
+    // if(k==n)
+    // {
+    //     return t;
+    // }
+    // int w=n-k;
+    // int csum=0;
+    // for(int i=0;i<w;i++)
+    // {
+    //     csum+=cardPoints[i];
+    // }
+    // int misum=csum;
+    // for(int i=w;i<n;i++)
+    // {
+    //     csum+=cardPoints[i]-cardPoints[i-w];
+    //     if(csum<misum)
+    //     {
+    //         misum=csum;
+    //     }
+    // }
+    // return t-misum;
+
+
+
+    int lsum =0,rsum=0;
+    for(int i=0;i<k;i++)
     {
-        t+=cardPoints[i];
+        lsum+=cardPoints[i];
     }
-    if(k==n)
+        int msum=lsum;
+        int ri=n-1;
+    for(int i=0;i<k;i++)
     {
-        return t;
-    }
-    int w=n-k;
-    int csum=0;
-    for(int i=0;i<w;i++)
-    {
-        csum+=cardPoints[i];
-    }
-    int misum=csum;
-    for(int i=w;i<n;i++)
-    {
-        csum+=cardPoints[i]-cardPoints[i-w];
-        if(csum<misum)
+        lsum-=cardPoints[k-1-i];
+        rsum+=cardPoints[n-1-i];
+        int c=lsum+rsum;
+        if(c>msum)
         {
-            misum=csum;
+            msum=c;
         }
     }
-    return t-misum;
+    return msum;
     }
 }
