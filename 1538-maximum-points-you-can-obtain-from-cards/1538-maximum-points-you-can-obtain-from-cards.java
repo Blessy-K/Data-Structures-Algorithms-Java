@@ -12,20 +12,51 @@ class Solution {
     //     bsum=bsum+cardPoints[i];
     // } 
     // return Math.max(fsum,bsum);
-    int lsum =0,rsum=0,msum=0;
-    for(int i=0;i<k;i++)
+
+
+
+    // int lsum =0,rsum=0,msum=0;
+    // for(int i=0;i<k;i++)
+    // {
+    //     lsum+=cardPoints[i];
+    // }
+    //     msum=lsum;
+    //     int ri=n-1;
+    // for(int i=k-1;i>=0;i--)
+    // {
+    //     lsum-=cardPoints[i];
+    //     rsum+=cardPoints[ri];
+    //     ri--;
+    //     msum=Math.max(msum,rsum+lsum);
+    // }
+    // return msum;
+
+
+
+    int t=0;
+    for(int i=0;i<n;i++)
     {
-        lsum+=cardPoints[i];
+        t+=cardPoints[i];
     }
-        msum=lsum;
-        int ri=n-1;
-    for(int i=k-1;i>=0;i--)
+    if(k==n)
     {
-        lsum-=cardPoints[i];
-        rsum+=cardPoints[ri];
-        ri--;
-        msum=Math.max(msum,rsum+lsum);
+        return t;
     }
-    return msum;
+    int w=n-k;
+    int csum=0;
+    for(int i=0;i<w;i++)
+    {
+        csum+=cardPoints[i];
+    }
+    int misum=csum;
+    for(int i=w;i<n;i++)
+    {
+        csum+=cardPoints[i]-cardPoints[i-w];
+        if(csum<misum)
+        {
+            misum=csum;
+        }
+    }
+    return t-misum;
     }
 }
