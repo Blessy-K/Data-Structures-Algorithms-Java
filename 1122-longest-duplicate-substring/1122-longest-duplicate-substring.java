@@ -1,4 +1,6 @@
 class Solution {
+     static final long MOD = (1L << 61) - 1;
+    static final long BASE = 131L;
     public String longestDupSubstring(String s) {
     //  int n = s.length();
     //  String res = "";
@@ -22,52 +24,64 @@ class Solution {
 
        
         
-        int n = s.length();
-        int left = 1, right = n - 1;
-        int start = -1, maxLen = 0;
+        
+   
 
-        long mod1 = 1000000007L, mod2 = 1000000009L;
-        long base = 256; 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            int idx = check(s, mid, base, mod1, mod2);
+     
+        int n = s.length();
+        long[] pow = new long[n + 1];
+        long[] hash = new long[n + 1];
+        pow[0] = 1;
+        for (int i = 1; i <= n; i++) {
+            pow[i] = modMul(pow[i - 1], BASE);
+            hash[i] = modAdd(modMul(hash[i - 1], BASE), s.charAt(i - 1) - 'a' + 1);
+        }
+
+        int lo = 1, hi = n - 1, start = -1, best = 0;
+        while (lo <= hi) {
+            int mid = (lo + hi) >>> 1;
+            int idx = dup(s, mid, pow, hash);
             if (idx != -1) {
                 start = idx;
-                maxLen = mid;
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
+                best = mid;
+                lo = mid + 1;
+            } else hi = mid - 1;
         }
-        return start == -1 ? "" : s.substring(start, start + maxLen);
+        return start == -1 ? "" : s.substring(start, start + best);
     }
 
-    private int check(String s, int len, long base, long mod1, long mod2) {
+    private int dup(String s, int len, long[] pow, long[] hash) {
         int n = s.length();
-        long h1 = 0, h2 = 0;
-        long pow1 = 1, pow2 = 1;
-        for (int i = 0; i < len; i++) {
-            int v = s.charAt(i) - 'a' + 1;
-            h1 = (h1 * base + v) % mod1;
-            h2 = (h2 * base + v) % mod2;
-            pow1 = (pow1 * base) % mod1;
-            pow2 = (pow2 * base) % mod2;
-        }
-
-        java.util.HashSet<Long> seen = new java.util.HashSet<>();
-        seen.add(pack(h1, h2));
-        for (int i = len; i < n; i++) {
-            int add = s.charAt(i) - 'a' + 1;
-            int remove = s.charAt(i - len) - 'a' + 1;
-            h1 = (h1 * base + add - (remove * pow1) % mod1 + mod1) % mod1;
-            h2 = (h2 * base + add - (remove * pow2) % mod2 + mod2) % mod2;
-            long key = pack(h1, h2);
-            if (!seen.add(key)) return i - len + 1;
+        HashSet<Long> seen = new HashSet<>();
+        for (int i = 0; i + len <= n; i++) {
+            long cur = getHash(hash, pow, i, i + len);
+            if (!seen.add(cur)) return i;
         }
         return -1;
     }
 
-    private long pack(long a, long b) {
-        return (a << 32) | (b & 0xffffffffL);
+    private long getHash(long[] h, long[] p, int l, int r) {
+        return modSub(h[r], modMul(h[l], p[r - l]));
+    }
+
+    private long modAdd(long a, long b) {
+        long res = a + b;
+        if (res >= MOD) res -= MOD;
+        return res;
+    }
+
+    private long modSub(long a, long b) {
+        long res = a - b;
+        if (res < 0) res += MOD;
+        return res;
+    }
+
+    private long modMul(long a, long b) {
+        long au = a >>> 31, ad = a & ((1L << 31) - 1);
+        long bu = b >>> 31, bd = b & ((1L << 31) - 1);
+        long mid = ad * bu + au * bd;
+        long res = (au * bu * 2 + ad * bd + ((mid & ((1L << 30) - 1)) << 31) + (mid >>> 30)) % MOD;
+        if (res >= MOD) res -= MOD;
+        return res;
     }
 }
