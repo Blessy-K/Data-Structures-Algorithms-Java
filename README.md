@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
+| [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
+| [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
@@ -204,12 +207,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
+| [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
+| [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 ## Matrix
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
