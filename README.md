@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
