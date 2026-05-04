@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0680-valid-palindrome-ii) |
 | [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 ## Stack
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
