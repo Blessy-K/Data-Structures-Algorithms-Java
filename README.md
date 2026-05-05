@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0680-valid-palindrome-ii) |
 | [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
