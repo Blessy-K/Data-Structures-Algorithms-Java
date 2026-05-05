@@ -30,7 +30,7 @@ class Solution {
             double avg = curSum / k;
             maxAvg = Math.max(maxAvg, avg);
         }
- 
+   
         return maxAvg;
     }
 }
