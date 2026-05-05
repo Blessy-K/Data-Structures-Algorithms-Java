@@ -1,6 +1,6 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> result = new ArrayList<>();
+        // List<List<String>> result = new ArrayList<>();
     //     boolean[] visited = new boolean[strs.length];
 
     //     for (int i = 0; i < strs.length; i++) {
@@ -43,23 +43,35 @@ class Solution {
 
 
 
-        Map<String, List<String>> map = new HashMap<>();
+        // Map<String, List<String>> map = new HashMap<>();
 
-        for (String s : strs) {
-            int[] freq = new int[26];
-            for (char c : s.toCharArray()) {
-                freq[c - 'a']++;
-            }
+        // for (String s : strs) {
+        //     int[] freq = new int[26];
+        //     for (char c : s.toCharArray()) {
+        //         freq[c - 'a']++;
+        //     }
 
-            StringBuilder key = new StringBuilder();
-            for (int f : freq) {
-                key.append(f).append('#');
-            }
+        //     StringBuilder key = new StringBuilder();
+        //     for (int f : freq) {
+        //         key.append(f).append('#');
+        //     }
 
-            map.computeIfAbsent(key.toString(), k -> new ArrayList<>()).add(s);
+        //     map.computeIfAbsent(key.toString(), k -> new ArrayList<>()).add(s);
+        // }
+
+        // return new ArrayList<>(map.values());
+
+        Map<String,List<String>>map = new HashMap<>();
+        for(String a:strs)
+        {
+            char[] arr=a.toCharArray();
+            Arrays.sort(arr);
+            String key = new String(arr);
+            map.putIfAbsent(key,new ArrayList<>());
+            map.get(key).add(a);
         }
-
         return new ArrayList<>(map.values());
+
     }
 }
     
