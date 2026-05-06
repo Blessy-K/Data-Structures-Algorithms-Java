@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 ## Prefix Sum
 |  |
