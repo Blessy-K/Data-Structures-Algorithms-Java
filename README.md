@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
