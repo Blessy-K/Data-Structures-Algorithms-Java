@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
