@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0206-reverse-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
