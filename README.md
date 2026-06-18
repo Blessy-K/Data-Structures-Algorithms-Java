@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0412-fizz-buzz) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0231-power-of-two) |
 ## Rolling Hash
 |  |
 | ------- |
