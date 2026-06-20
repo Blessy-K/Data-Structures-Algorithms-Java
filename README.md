@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0242-valid-anagram) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0875-koko-eating-bananas) |
 | [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
