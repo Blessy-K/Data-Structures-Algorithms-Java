@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0875-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0875-koko-eating-bananas) |
 | [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
 ## Math
 |  |
