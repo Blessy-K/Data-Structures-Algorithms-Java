@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
