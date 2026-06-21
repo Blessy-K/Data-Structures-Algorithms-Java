@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0875-koko-eating-bananas) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## Suffix Array
 |  |
