@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0075-sort-colors) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
