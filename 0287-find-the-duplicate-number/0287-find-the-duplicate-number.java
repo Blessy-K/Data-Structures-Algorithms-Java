@@ -1,12 +1,12 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-     HashSet<Integer> set = new HashSet<>();
+     int[] freq = new int[nums.length];
         for (int num : nums) {
-            if (set.contains(num)) {
+            freq[num]++;
+            if (freq[num] > 1) {
                 return num;
             }
-            set.add(num);
         }
-        return -1;   
+        return -1;  
     }
 }
