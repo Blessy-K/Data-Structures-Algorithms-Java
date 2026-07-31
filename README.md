@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0875-koko-eating-bananas) |
 | [1122-longest-duplicate-substring](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1122-longest-duplicate-substring) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
