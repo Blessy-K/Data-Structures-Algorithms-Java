@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
