@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0217-contains-duplicate) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0240-search-a-2d-matrix-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## Suffix Array
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
