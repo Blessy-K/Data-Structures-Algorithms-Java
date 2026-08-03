@@ -334,12 +334,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0207-course-schedule) |
@@ -348,12 +350,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
