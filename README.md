@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0994-rotting-oranges) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0994-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/3227-find-missing-and-repeated-values) |
 ## Suffix Array
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Blessy-K/Data-Structures-Algorithms-Java/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
