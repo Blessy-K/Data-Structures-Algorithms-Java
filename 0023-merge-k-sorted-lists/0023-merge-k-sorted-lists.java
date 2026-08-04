@@ -34,23 +34,54 @@ class Solution {
 
     //     return dummy.next;
 
-    if (lists == null || lists.length == 0)
-            return null;
+    // if (lists == null || lists.length == 0)
+    //         return null;
 
-        return divide(lists, 0, lists.length - 1);
-    }
+    //     return divide(lists, 0, lists.length - 1);
+    // }
 
-    private ListNode divide(ListNode[] lists, int left, int right) {
+    // private ListNode divide(ListNode[] lists, int left, int right) {
 
-        if (left == right)
-            return lists[left];
+    //     if (left == right)
+    //         return lists[left];
 
-        int mid = left + (right - left) / 2;
+    //     int mid = left + (right - left) / 2;
 
-        ListNode l1 = divide(lists, left, mid);
-        ListNode l2 = divide(lists, mid + 1, right);
+    //     ListNode l1 = divide(lists, left, mid);
+    //     ListNode l2 = divide(lists, mid + 1, right);
 
-        return merge(l1, l2);
+    //     return merge(l1, l2);
+    // }
+
+    // private ListNode merge(ListNode a, ListNode b) {
+
+    //     ListNode dummy = new ListNode(0);
+    //     ListNode curr = dummy;
+
+    //     while (a != null && b != null) {
+
+    //         if (a.val <= b.val) {
+    //             curr.next = a;
+    //             a = a.next;
+    //         } else {
+    //             curr.next = b;
+    //             b = b.next;
+    //         }
+
+    //         curr = curr.next;
+    //     }
+
+    //     curr.next = (a != null) ? a : b;
+
+    //     return dummy.next; 
+
+    ListNode result = null;
+
+        for (ListNode list : lists) {
+            result = merge(result, list);
+        }
+
+        return result;
     }
 
     private ListNode merge(ListNode a, ListNode b) {
@@ -73,6 +104,6 @@ class Solution {
 
         curr.next = (a != null) ? a : b;
 
-        return dummy.next;    
+        return dummy.next;   
     }
 }
